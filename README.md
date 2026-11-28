@@ -119,7 +119,3 @@ Data goes one way: **Room → Repository → ViewModel → screens**. User actio
 |---|---|---|
 | ![Problem list](screenshots/problems.png) | ![Detail](screenshots/detail.png) | ![Stats](screenshots/stats.png) |
 
-## Plans
-
-- import problem title, rating and tags from the Codeforces API by id
-- daily reminder with WorkManager when the review list is not empty
